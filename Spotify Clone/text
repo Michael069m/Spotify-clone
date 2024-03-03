@@ -1,0 +1,25 @@
+<script src="https://kit.fontawesome.com/19bd716d99.js" crossorigin="anonymous"></script>
+
+spotify
+<i class="fa-brands fa-spotify fa-xs" style="color: #ffffff;"></i>
+
+home
+<i class="fa-solid fa-house fa-xs" style="color: #ffffff;"></i>
+
+search
+<i class="fa-solid fa-magnifying-glass fa-xs" style="color: #ffffff;"></i>
+
+library
+<i class="fa-solid fa-bookmark fa-xs" style="color: #ffffff;"></i>
+
+add
+<i class="fa-regular fa-plus fa-xs" style="color: #ffffff;"></i>
+
+globe
+<i class="fa-light fa-globe fa-xs" style="color: #ffffff;"></i>
+
+left arrow
+<i class="fa-regular fa-chevron-left fa-xs" style="color: #ffffff;"></i>
+
+right arrow
+<i class="fa-regular fa-chevron-right fa-xs" style="color: #ffffff;"></i>

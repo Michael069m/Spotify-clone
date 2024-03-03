@@ -1,0 +1,113 @@
+body{
+    background: linear-gradient(to bottom, rgb(42,42,42),black);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+a{
+    color: white;
+}
+hr{
+    width: 75%;
+    height: 0px;
+    border: 0.5px solid rgb(114, 114, 114);
+}
+#nav{
+    height: 96px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 700;
+    padding-left: 25px;
+    background-color: rgb(18, 18, 18);
+}
+#body{
+    width: 734px;
+    margin-left:auto ;
+    margin-right: auto;
+    background-color: rgb(18, 18, 18);
+    margin-top: 35px;
+    margin-bottom: 35px;
+    height: 966px;
+}
+#heading{
+    font-size: 44px;
+    font-weight: 800;
+    width: 100%;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+#quickSignin{
+    height: 255px;
+    width: 324px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.signin{
+    border: 1px solid rgb(114, 114, 114);
+    height: 48px;
+    width: 100%;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.signin:hover{
+    border: 1px solid white;
+}
+#form{
+    width: 324px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#label{
+    font-size: 14px;
+    font-weight: 800;
+}
+#input{
+    background-color: black;
+    border: 1px solid white;
+    width: 100%;
+    height: 48px;
+    font-size: 16px;
+    padding-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    color: white;
+}
+#submit{
+    background-color: rgb(101, 212, 110);
+    font-size: 16px;
+    font-weight:800 ;
+    width: 100%;
+    height: 48px;
+    border-style: none;
+    border-radius: 50px;
+    margin: 30px 0 30px;
+}
+
+#already{
+    text-align: center;
+    color: rgb(167, 167, 167);
+}
+#footer {
+    height: 90px;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    color: rgb(167, 167, 167);
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: rgb(18, 18, 18);
+
+    margin-bottom: 0px;
+}
+#footer1{
+
+    margin: 0;
+}
